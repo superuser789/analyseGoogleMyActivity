@@ -24,7 +24,7 @@ Sleep Data and App Usage Data are generated on the basis of Following Assumption
     
     
 ## Installation :
-    pip install analyseGoogleMyActivity
+    pip install analysegooglemyactivity
 
  Requirements : "numpy", "pandas", "matplotlib"
 
