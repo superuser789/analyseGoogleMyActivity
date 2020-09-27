@@ -47,8 +47,10 @@ Sleep Data and App Usage Data are generated on the basis of Following Assumption
         Pass the timezone region code. The default is 'in' for Indian Standard Time (IST).
     excludeapps : List
         List of app names to Exclude from App Usage calculation. The default is ['com.miui.home' ].
-    idealsleeptime : int
+    idealsleeptime : float
         Ideal Sleep Time. The default is 8.
+    redmarksleeptime : float
+        Sleep Time below which it is shown in red. The default is 5.5 .
     inlineimg : 0 or 1, 
         To include image in the Report itself or not. The default is 1.
     showmarkerday: 0 or 1,
